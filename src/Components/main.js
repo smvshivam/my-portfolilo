@@ -5,7 +5,7 @@ const Main = ()=>{
     return(
         <main className="widt w-md-100 container ">
            <div className="row ">
-            <section className="col-md mt-5">
+            <section className="col-md mt-sm-5">
                 <h1 className="mt-5 main-heading-font">Hi, I'm Shivam Gupta</h1>
                 <span className="span-color1">Full-Stack  </span> <span className="span-color2"> Developer</span>
                 <p className="my-4 main-paragraph-font">
