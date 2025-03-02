@@ -18,10 +18,10 @@ const Header = () => {
         <div className="row">
           <Link
             to="/"
-            className="col col-md-2 col-lg-4 align-content-center text-decoration-none"
+            className="col col-sm-10 col-md-2 col-lg-4 align-content-center text-decoration-none"
           >
             <img src={img} alt="logo" className="logo-img rounded-circle" />
-            <span className="mx-3 d-none d-lg-inline-block fs-5 fw-bold logo-color">
+            <span className="mx-3 d-md-none d-lg-inline-block fs-5 fw-bold logo-color">
               SMV_Shivam
             </span>
           </Link>
@@ -55,12 +55,12 @@ const Header = () => {
 
           {isClicked ? (
             <i
-              class="fa-solid fa-xmark col text-end align-content-center fs-3 d-md-none me"
+              class="fa-solid fa-xmark col-2 text-end align-content-center fs-3 d-md-none me"
               onClick={() => handleNav()}
             ></i>
           ) : (
             <i
-              class="fa-solid fa-bars col text-end align-content-center fs-3 d-md-none dev"
+              class="fa-solid fa-bars col-2 text-end align-content-center fs-3 d-md-none dev"
               onClick={() => handleNav()}
             />
           )}
