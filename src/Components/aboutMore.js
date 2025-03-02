@@ -12,7 +12,7 @@ const AboutMore = () => {
     }
   };
   return (
-    <div className="w-75 my-5 container text-center">
+    <div className="widt my-5 container text-center">
       <h1 className="my-4 about">
         About <span className="me">Me</span>
       </h1>

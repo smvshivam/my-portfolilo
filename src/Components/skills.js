@@ -1,6 +1,6 @@
 const SkillsSection = ()=>{
     return(
-        <section className="w-75 container">
+        <section className="widt container">
             <h1 className="my-skill my-3 text-center">My <span className="me">Skills</span></h1>
                 <h2 className="my-skill my-skill1 dev">Coding Skills</h2>
                 <section className="m-1 p-2 row row-cols-2 sl1 rounded-3">

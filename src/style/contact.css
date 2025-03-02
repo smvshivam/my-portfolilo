@@ -37,3 +37,30 @@ textarea{
     background: #7a5cfa;
     color: #ffffff;
 }
+
+@media (max-width: 426px) {
+    .contact-font{
+        font-family: "Poppins", sans-serif;
+        font-size: 1.3rem;
+        font-weight: bold;
+        color: #d1d1d1;
+    }
+
+    .inputn{
+        font-family: "Roboto", sans-serif;
+        font-size: .6rem;
+    }
+
+    textarea{
+        font-family: "Roboto", sans-serif;
+        font-size: .6rem;
+    }
+
+    .btn-submit{
+        font-family: "Nunito", sans-serif;
+        font-size: .6rem;
+        font-weight: bolder;
+    
+        width: 5rem;
+    }    
+}

@@ -32,3 +32,15 @@
 .nav-ling-color:active{
     border-bottom: 2px solid #00aeef;
 }
+
+@media(min-width:426px) {
+    .widt{
+        width: 75%;
+    }    
+}
+
+@media(max-width:425px) {
+    .widt{
+        width: 100vw;
+    }    
+}

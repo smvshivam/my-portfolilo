@@ -41,3 +41,27 @@
     font-family: "Roboto", sans-serif; 
     /* color: #d1d1d1; */
 }
+
+@media (max-width: 426px) {
+    .about{
+        font-family: "Poppins", sans-serif;
+        font-size: 1.3rem;
+        font-weight: bold;
+        color: #d1d1d1;
+    }
+
+    .font-p{
+        font-family: "Roboto", sans-serif;
+        font-size: .7rem;
+        /* font-weight: bolder; */
+        color: #a1a1a1;
+    }
+
+    .me{
+        color: #00aeef;
+    }
+
+    .dev{
+        color:#eb2879;
+    }
+}

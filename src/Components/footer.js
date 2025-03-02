@@ -2,13 +2,13 @@ import { Link } from "react-router-dom";
 import img from "../assets/img/mypicture.jpg";
 const FooterSection=()=>{
     return(
-        <footer className="w-75 my-5 container">
+        <footer className="widt my-5 container">
             <div className="d-flex justify-content-center align-items-center ">
                 <img src={img} className="img-logo"/>
                 <h2 className="mx-3 footer-name">Shivam Gupta</h2>
             </div>
             
-                <ul className="nav justify-content-center">
+                <ul className="nav nav-s justify-content-center">
                     <li className="nav-item"><Link to="/about" className="footer-link nav-link">About</Link></li>
                     <li className="nav-item"><Link to="/skills" className="footer-link nav-link">Skills</Link></li>
                     <li className="nav-item"><Link to="#" className="footer-link nav-link">Resume</Link></li>
