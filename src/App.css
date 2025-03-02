@@ -1,0 +1,12 @@
+@import"./style/header.css";
+@import"./style/main.css";
+@import"./style/about.css";
+@import"./style/skills.css";
+@import"./style/footer.css";
+@import"./style/contact.css";
+@import"./style/resume.css";
+
+*{
+    background-color: #0d0b26;
+    color: #d1d1d1;
+}

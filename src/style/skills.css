@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sofia+Sans+Extra+Condensed:ital,wght@0,1..1000;1,1..1000&display=swap');
+
+.my-skill{
+    font-family: "Poppins", sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    /* color: #d1d1d1; */
+}
+
+.my-skill1{
+    font-size: 1.7rem;
+}
+
+.skills{
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #a1a1a1;
+}
+
+.sl1{
+    border:3px solid #00aeef;
+
+}
+.progress{
+    background-color: transparent;
+    border: 2px solid #00aeef;
+}
+.progress-bars{
+    background: #00aeef;
+    animation: java 3s ease-in-out forwards 1;
+}
+
+@keyframes java {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 90%;
+        background: #eb2879;
+        
+    }
+}
+
+
+.progress-bars1{
+    
+    background: #00aeef;
+    animation: springboot 3s ease-in-out forwards 1;
+}
+
+@keyframes springboot {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 50%;
+        background: #eb2879;
+        
+    }
+}
+
+
+.progress-bars2{
+    
+    background: #00aeef;
+    animation: javascript 3s ease-in-out forwards 1;
+}
+
+@keyframes javascript {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 70%;
+        background: #eb2879;
+        
+    }
+}
+
+.progress-bars3{
+    
+    background: #00aeef;
+    animation: nodejs 3s ease-in-out forwards 1;
+}
+
+@keyframes nodejs {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 70%;
+        background: #eb2879;
+        
+    }
+}
+.progress-bars4{
+    
+    background: #00aeef;
+    animation: react 3s ease-in-out forwards 1;
+}
+
+@keyframes react {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 80%;
+        background: #eb2879;
+        
+    }
+}
+
+.progress-bars5{
+    
+    background: #00aeef;
+    animation: express 3s ease-in-out forwards 1;
+}
+
+@keyframes express {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 40%;
+        background: #eb2879;
+        
+    }
+}
+
+.progress-bars6{
+    
+    background: #00aeef;
+    animation: html 3s ease-in-out forwards 1;
+}
+
+@keyframes html {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 90%;
+        background: #eb2879;
+        
+    }
+}
+
+.progress-bars7{
+    
+    background: #00aeef;
+    animation: css 3s ease-in-out forwards 1;
+}
+
+@keyframes css {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 90%;
+        background: #eb2879;
+        
+    }
+}
+
+.progress-bars8{
+    
+    background: #00aeef;
+    animation: bootstrap 3s ease-in-out forwards 1;
+}
+
+@keyframes bootstrap {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 60%;
+        background: #eb2879;
+        
+    }
+}
+
+.progress-bars9{
+    
+    background: #00aeef;
+    animation: tailwind 3s ease-in-out forwards 1;
+}
+
+@keyframes tailwind {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 50%;
+        background: #eb2879;
+        
+    }
+}
+
+.progress-bars10{
+    
+    background: #00aeef;
+    animation: mongodb 3s ease-in-out forwards 1;
+}
+
+@keyframes mongodb {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 40%;
+        background: #eb2879;
+        
+    }
+}
+
+.progress-bars11{
+    
+    background: #00aeef;
+    animation: oracle 3s ease-in-out forwards 1;
+}
+
+@keyframes oracle {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 40%;
+        background: #eb2879;
+        
+    }
+}
+
+.progress-bars12{
+    
+    background: #00aeef;
+    animation: frontend 3s ease-in-out forwards 1;
+}
+
+@keyframes frontend {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 75%;
+        background: #eb2879;
+        
+    }
+}
+
+.progress-bars13{
+    
+    background: #00aeef;
+    animation: backend 3s ease-in-out forwards 1;
+}
+
+@keyframes backend {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 60%;
+        background: #eb2879;
+        
+    }
+}
+
+.progress-bars14{
+    
+    background: #00aeef;
+    animation: dsa 3s ease-in-out forwards 1;
+}
+
+@keyframes dsa {
+    0%{
+        width: 0%;
+        background: #00aeef;
+    }
+    100%{
+        width: 50%;
+        background: #eb2879;
+        
+    }
+}
