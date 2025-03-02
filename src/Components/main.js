@@ -14,7 +14,7 @@ const Main = ()=>{
 
             
                 <Link to="/resume"><button className="btn btn-lg btn-color-1 rounded-2 main-btn-font">Hire me</button></Link>
-                <Link to="https://wa.me/8292521987" target="blank"><button className="btn btn-lg btn-color-2 mx-4 main-btn-font">Let's Talk</button></Link>
+                <Link to="https://wa.me/8210671205" target="blank"><button className="btn btn-lg btn-color-2 mx-4 main-btn-font">Let's Talk</button></Link>
 
                
             </section>
