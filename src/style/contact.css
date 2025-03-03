@@ -38,6 +38,18 @@ textarea{
     color: #ffffff;
 }
 
+@media(min-width:426px) {
+    .widt1{
+        width: 50%;
+    }    
+}
+
+@media (max-width:425px){
+    .widh1{
+        width: 100vw;
+    }
+}
+
 @media (max-width: 426px) {
     .contact-font{
         font-family: "Poppins", sans-serif;

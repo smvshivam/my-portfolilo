@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const ResumeSection = ()=>{
     return(
-        <section className="widt my-5 container">
+        <section className="widt1 my-5 container">
             <h1 className="m-3 text-center my-resume">My <span className="me">Resume</span></h1>
             
             <img src={resumepicture} type="application/pdf" className="w-100 rounded-3 resume"/>
