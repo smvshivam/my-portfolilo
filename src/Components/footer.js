@@ -11,7 +11,7 @@ const FooterSection=()=>{
                 <ul className="nav nav-s justify-content-center">
                     <li className="nav-item"><Link to="/about" className="footer-link nav-link">About</Link></li>
                     <li className="nav-item"><Link to="/skills" className="footer-link nav-link">Skills</Link></li>
-                    <li className="nav-item"><Link to="#" className="footer-link nav-link">Resume</Link></li>
+                    <li className="nav-item"><Link to="/resume" className="footer-link nav-link">Resume</Link></li>
                     <li className="nav-item"><Link to="/contact" className="footer-link nav-link">Contact Us</Link></li>
                 </ul>
 
