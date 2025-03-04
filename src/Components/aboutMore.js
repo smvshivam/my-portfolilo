@@ -48,7 +48,7 @@ const AboutMore = () => {
             </div>
             <div className="my-4 text-start">
                 <h5 className="collge me ">Senior Secondary (Science Stream)</h5>
-                <p className="font-p">Dr. Nagedra Jha College, Hanumannagar,Darbhanga(Bihar)  |  2017 - 2019</p>
+                <p className="font-p">Dr. Nagendra Jha College, Hanumannagar,Darbhanga(Bihar)  |  2017 - 2019</p>
             </div>
           </section>
           <button

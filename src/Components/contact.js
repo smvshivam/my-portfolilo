@@ -8,6 +8,7 @@ const ContactSection = ()=>{
 
     return(
         <section className="mt-4  widt1 container">
+            <title>this is contact page</title>
             <h1 className="my-3 text-center contact-font">Contact <span className="me">Me!</span></h1>
             <form method="post" className="p-3 row row-cols-2 form-group justify-content-between">
                <input type="text" placeholder="Full Name" required="true" value={isName} onChange={(e)=>{
