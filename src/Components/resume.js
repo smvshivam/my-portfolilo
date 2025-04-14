@@ -1,5 +1,5 @@
-import resume from "../assets/resume.pdf"
-import resumepicture from "../assets/img/resume photo.jpg"
+import resume from "../assets/resume.devShivam.pdf"
+import resumepicture from "../assets/img/resumePicture.devShivam.jpg"
 import { Link } from "react-router-dom";
 
 const ResumeSection = ()=>{
